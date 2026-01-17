@@ -8,6 +8,10 @@ NeuroStyle is a "Zero-Shot" stylist engine. It takes a single image of a clothin
 **Key Innovation:**
 To address dataset constraints, this project integrates **Generative AI (ESRGAN)** to upscale low-resolution thumbnails into high-fidelity assets in real-time.
 
+## IMPORTANT NOTICE:
+* This project requires to be opened in an editor that supports python-TF. **Recommended to run in google colab.**
+* **Also requires your own Kaggle username and api key to download the dataset**
+
 ## Features
 - **Hybrid Architecture:** ResNet50 (Visual Features) + Pandas (Semantic Logic).
 - **Generative Enhancement:** Google ESRGAN for 4x Super-Resolution.
