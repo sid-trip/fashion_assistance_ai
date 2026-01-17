@@ -1,0 +1,10 @@
+tensorflow
+tensorflow-hub
+pandas
+numpy
+scikit-learn
+opencv-python
+matplotlib
+opendatasets
+ipywidgets
+tqdm
